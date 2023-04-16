@@ -3,5 +3,17 @@
 version = 3
 
 [[package]]
-name = "rust-the-book"
+name = "loops"
+version = "0.1.0"
+
+[[package]]
+name = "ownership"
+version = "0.1.0"
+
+[[package]]
+name = "references_and_borrowing"
+version = "0.1.0"
+
+[[package]]
+name = "the_slice_type"
 version = "0.1.0"
