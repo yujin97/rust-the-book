@@ -2,6 +2,12 @@
 name = "rust-the-book"
 version = "0.1.0"
 edition = "2021"
-members = ["loops", "ownership", "references_and_borrowing", "the_slice_type"]
+members = [
+    "loops",
+    "ownership",
+    "references_and_borrowing",
+    "the_slice_type",
+    "struct",
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
