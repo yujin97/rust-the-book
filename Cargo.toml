@@ -8,6 +8,8 @@ members = [
     "references_and_borrowing",
     "the_slice_type",
     "struct",
+    "enum",
+    "match",
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
