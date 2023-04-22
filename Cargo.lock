@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "backyard"
+version = "0.1.0"
+
+[[package]]
 name = "enum"
 version = "0.1.0"
 
@@ -20,6 +24,10 @@ version = "0.1.0"
 
 [[package]]
 name = "references_and_borrowing"
+version = "0.1.0"
+
+[[package]]
+name = "restaurant"
 version = "0.1.0"
 
 [[package]]
