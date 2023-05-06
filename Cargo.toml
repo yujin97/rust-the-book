@@ -15,6 +15,7 @@ members = [
     "vectors",
     "strings",
     "hash_maps",
+    "collections",
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
