@@ -1,4 +1,4 @@
-use std::{collections::HashMap, string};
+use std::collections::HashMap;
 
 fn main() {
     let numbers = vec![1, 8, 9, 8, 1, 4, 6, 5, 5, 6, 8, 9, 9, 4];
