@@ -59,5 +59,9 @@ name = "the_slice_type"
 version = "0.1.0"
 
 [[package]]
+name = "traits"
+version = "0.1.0"
+
+[[package]]
 name = "vectors"
 version = "0.1.0"
