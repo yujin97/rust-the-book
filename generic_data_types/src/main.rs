@@ -2,9 +2,18 @@ fn main() {
     let both_integer = Point { x: 4, y: 10 };
     let integer_and_float = Point { x: 4, y: 12.2 };
     let mix = both_integer.mixup(integer_and_float);
+    let string_string = Point {
+        x: "hello".to_owned(),
+        y: "world".to_owned(),
+    };
+    let integer_and_string = Point {
+        x: 14,
+        y: "bye".to_owned(),
+    };
+    let mix_up = string_string.mixup(integer_and_string);
 }
 
-fn largest<T>(list: &[T]) -> &T {
+fn largest<T: std::cmp::PartialOrd>(list: &[T]) -> &T {
     let mut largest = &list[0];
 
     for item in list {
