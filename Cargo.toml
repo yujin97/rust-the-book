@@ -17,6 +17,7 @@ members = [
     "hash_maps",
     "collections",
     "errors",
+    "generic_data_types",
 ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
