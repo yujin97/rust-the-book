@@ -44,3 +44,10 @@ where
         y
     }
 }
+
+// this actually works
+// because the lifetime of string literals
+// are static
+fn just_str<'a>() -> &'a str {
+    "just a random &str"
+}
