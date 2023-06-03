@@ -26,6 +26,7 @@ members = [
     "iterators",
     "my_crates",
     "pointer_box",
+    "my_box",
 ]
 
 [profile.dev]

@@ -55,6 +55,10 @@ name = "minigrep"
 version = "0.1.0"
 
 [[package]]
+name = "my_box"
+version = "0.1.0"
+
+[[package]]
 name = "my_crates"
 version = "0.1.0"
 
