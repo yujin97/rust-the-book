@@ -28,6 +28,7 @@ members = [
     "pointer_box",
     "my_box",
     "drop",
+    "reference_count",
 ]
 
 [profile.dev]
