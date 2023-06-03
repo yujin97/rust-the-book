@@ -27,6 +27,7 @@ members = [
     "my_crates",
     "pointer_box",
     "my_box",
+    "drop",
 ]
 
 [profile.dev]

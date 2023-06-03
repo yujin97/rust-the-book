@@ -19,6 +19,10 @@ name = "collections"
 version = "0.1.0"
 
 [[package]]
+name = "drop"
+version = "0.1.0"
+
+[[package]]
 name = "enum"
 version = "0.1.0"
 
