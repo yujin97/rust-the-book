@@ -75,6 +75,10 @@ name = "pointer_box"
 version = "0.1.0"
 
 [[package]]
+name = "ref_cell"
+version = "0.1.0"
+
+[[package]]
 name = "reference_count"
 version = "0.1.0"
 

@@ -29,6 +29,7 @@ members = [
     "my_box",
     "drop",
     "reference_count",
+    "ref_cell",
 ]
 
 [profile.dev]
