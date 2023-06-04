@@ -31,6 +31,7 @@ members = [
     "reference_count",
     "ref_cell",
     "reference_cycle",
+    "threads",
 ]
 
 [profile.dev]
