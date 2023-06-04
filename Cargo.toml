@@ -30,6 +30,7 @@ members = [
     "drop",
     "reference_count",
     "ref_cell",
+    "reference_cycle",
 ]
 
 [profile.dev]
