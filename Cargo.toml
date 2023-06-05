@@ -33,6 +33,7 @@ members = [
     "reference_cycle",
     "threads",
     "channels",
+    "mutex",
 ]
 
 [profile.dev]
