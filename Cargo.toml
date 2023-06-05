@@ -32,6 +32,7 @@ members = [
     "ref_cell",
     "reference_cycle",
     "threads",
+    "channels",
 ]
 
 [profile.dev]
