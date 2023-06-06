@@ -35,6 +35,7 @@ members = [
     "channels",
     "mutex",
     "oop",
+    "trait_object",
 ]
 
 [profile.dev]
