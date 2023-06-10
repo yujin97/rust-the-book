@@ -37,7 +37,8 @@ members = [
     "oop",
     "trait_object",
     "blog",
-    "blog_type"
+    "blog_type",
+    "patterns",
 ]
 
 [profile.dev]

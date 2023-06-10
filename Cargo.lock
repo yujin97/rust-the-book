@@ -91,6 +91,10 @@ name = "ownership"
 version = "0.1.0"
 
 [[package]]
+name = "patterns"
+version = "0.1.0"
+
+[[package]]
 name = "pointer_box"
 version = "0.1.0"
 
