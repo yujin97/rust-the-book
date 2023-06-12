@@ -39,6 +39,7 @@ members = [
     "blog",
     "blog_type",
     "patterns",
+    "unsafe_rust",
 ]
 
 [profile.dev]

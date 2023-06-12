@@ -143,5 +143,9 @@ name = "traits"
 version = "0.1.0"
 
 [[package]]
+name = "unsafe_rust"
+version = "0.1.0"
+
+[[package]]
 name = "vectors"
 version = "0.1.0"
