@@ -40,6 +40,7 @@ members = [
     "blog_type",
     "patterns",
     "unsafe_rust",
+    "advanced_traits",
 ]
 
 [profile.dev]
