@@ -41,6 +41,7 @@ members = [
     "patterns",
     "unsafe_rust",
     "advanced_traits",
+    "advanced_types",
 ]
 
 [profile.dev]
