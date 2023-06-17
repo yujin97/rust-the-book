@@ -43,6 +43,10 @@ members = [
     "advanced_traits",
     "advanced_types",
     "advanced_functions",
+    "macros",
+    "hello_macro",
+    "hello_macro/hello_macro_derive",
+    "pancakes"
 ]
 
 [profile.dev]
