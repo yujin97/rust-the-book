@@ -46,7 +46,8 @@ members = [
     "macros",
     "hello_macro",
     "hello_macro/hello_macro_derive",
-    "pancakes"
+    "pancakes",
+    "server",
 ]
 
 [profile.dev]
